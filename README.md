@@ -4,7 +4,7 @@
 ![Macrrea](img/github-header-banner.png)
 
 # 💫 About Me:
-🎓 Computer Science student at BINUS University.<br><br>📱 Building seamless mobile experiences with React Native & Expo.<br><br>💻 Crafting fast, modern web interfaces using Next.js and Tailwind CSS.<br><br>⚙️ Architecting robust backend APIs and automation bots with Node.js, Python, and Supabase.<br><br>🐧 Linux enthusiast (Ubuntu) exploring local AI deployments and system optimizations.
+🎓 Computer Science student at BINUS University.<br><br>📱 Building seamless mobile experiences with React Native & Expo.<br><br>💻 Crafting fast, modern web interfaces using Next.js and Tailwind CSS.<br><br>⚙️ Architecting robust backend APIs and automation bots with Node.js, Python, and Supabase.<br><br>🐧 Linux enthusiast (Ubuntu) exploring local AI deployments and system optimizations. <br><br>🌍 Open to global remote roles (US/Australia timezone friendly) as a Fullstack Engineer.
 
 
 ## 🌐 Socials:
